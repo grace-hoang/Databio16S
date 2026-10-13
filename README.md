@@ -102,7 +102,3 @@ This project is distributed under the MIT License.
 Standalone R implementation of the analysis workflow.
 
 https://github.com/grace-hoang/Automated-Microbiome-R-Pipeline
-
-GitHub
-
-https://github.com/grace-hoang
